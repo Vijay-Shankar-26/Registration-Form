@@ -56,7 +56,7 @@ https://vijay-shankar-26.github.io/Registration-Form/
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-💼 GitHub:  
+**Vijay Shankar**  
+💼 GitHub: https://github.com/Vijay-Shankar-26
 📧 Email: vijayshankar0244@gmail.com
 
