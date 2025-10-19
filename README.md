@@ -50,8 +50,8 @@ You can open `index.html` directly in any browser or host it using GitHub Pages.
 ---
 ## 📸 Preview
 
-![Registration Form Preview](https://via.placeholder.com/600x400?text=Registration+Form+Preview)
-
+https://vijay-shankar-26.github.io/Registration-Form/
+ 
 ---
 
 ## 🧑‍💻 Author
